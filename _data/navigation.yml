@@ -10,7 +10,7 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: 'Portfolio'
-    url: https://kkwongs.github.io/portfolio/
-  - title: 'Category'
+  - title: "Portfolio"
+    url: https://kkwongs.github.io/vue3-portfolio/
+  - title: "Category"
     url: /categories/
